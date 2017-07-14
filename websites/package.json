@@ -8,5 +8,8 @@
     "start": "electron ."
   },
   "author": "bhabanism",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.6.10"
+  }
 }

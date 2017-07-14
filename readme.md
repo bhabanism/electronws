@@ -70,3 +70,14 @@ or
 
 > Without source code : **electron-packager . --asar**
 
+
+
+## Recreate
+> Get the repository from git
+
+    git clone <repository_url>
+
+> Install dependencies with - 
+
+    npm install
+
